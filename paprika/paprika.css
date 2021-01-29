@@ -3,3 +3,6 @@ body
     background-color:#FFEFD5 ;
     color: #8B4513 ;
 }
+ul{
+    list-style-image: url("chili-pepper-icon.gif");
+}
