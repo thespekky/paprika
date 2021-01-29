@@ -6,3 +6,22 @@ body
 ul{
     list-style-image: url("chili-pepper-icon.gif");
 }
+#lila
+{
+    background-color:darkmagenta;
+}
+#piros
+{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#zold
+{
+    background-color: green;
+}
+td
+{
+    border: 1px solid blue;
+}
